@@ -1,0 +1,65 @@
+ [
+    {
+      "title": "Pudgy Penguins",
+      "description": "This is an ongoing airdrop and it would soon be ending.",
+      "requirements": "Join the Discord server and follow on Twitter.",
+      "status": "Live"
+    },
+    {
+      "title": "Blum",
+      "description": "Participate in the first airdrop event.",
+      "status": "Upcoming"
+    },
+    {
+      "title": "Notcoin",
+      "description": "Airdrop ended last week.",
+      "status": "Ended"
+    },
+    {
+      "title": "Purple Whale",
+      "description": "Participate in the first airdrop event.",
+      "requirements": "Join the Discord server and follow on Twitter.",
+      "status": "Live"
+    },
+    {
+      "title": "Dogs",
+      "description": "Participate in the first airdrop event.",
+      "requirements": "Join the Discord server and follow on Twitter.",
+      "status": "Ended"
+    },
+    {
+      "title": "ZetaChain",
+      "description": "Claim your ZETA from testnet participation.",
+      "requirements": "Bridge assets and interact with dApps.",
+      "status": "Live"
+    },
+    {
+      "title": "Blast",
+      "description": "Early contributor rewards coming soon.",
+      "status": "Upcoming"
+    },
+    {
+      "title": "LayerZero",
+      "description": "Bridge and participate in Zealy quests.",
+      "requirements": "Use Stargate and participate in quests.",
+      "status": "Live"
+    },
+    {
+      "title": "Scroll",
+      "description": "Testnet is ending, prepare for mainnet rewards.",
+      "status": "Ended"
+    },
+    {
+      "title": "Aptos",
+      "description": "Participate in the first airdrop event.",
+      "requirements": "Join the Discord server and follow on Twitter.",
+      "status": "Live"
+    },
+    {
+      "title": "Sui",
+      "description": "Participate in the first airdrop event. This is an ongoing airdrop and it would soon be ending. \n \n Join the Discord server and follow on Twitter.",
+      "requirements": "Join the Discord server and follow on Twitter.",
+      "status": "Live",
+      "link": "https://sui.io"
+    }
+  ]
