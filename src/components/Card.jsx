@@ -53,7 +53,7 @@ const Card = ({
               ? "bg-yellow-500 text-black"
               : status === "Ended"
               ? "bg-red-600"
-              : "bg-gray-700"
+              : "bg-blue-600"
           }`}
         >
           {status}

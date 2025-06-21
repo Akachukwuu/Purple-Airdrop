@@ -13,7 +13,7 @@ const Container = ({ cardInfo }) => {
 
   const visibleCards = filteredCards.slice(0, visibleCount);
 
-  const filters = ["All", "Live", "Upcoming", "Ended", "Unconfirmed"];
+  const filters = ["All", "Live", "Upcoming", "Ended", "Verified"];
 
   return (
     <div className="min-h-screen bg-[#0d0d16] text-white p-4">
@@ -36,8 +36,8 @@ const Container = ({ cardInfo }) => {
                 ? "text-[#d99f20]"
                 : filter === "Ended"
                 ? "text-[#f21b1b]"
-                : filter === "Unconfirmed"
-                ? "text-gray-500"
+                : filter === "Verified"
+                ? "text-blue-500"
                 : "text-white"
             }`}
           >
@@ -61,7 +61,7 @@ const Container = ({ cardInfo }) => {
             />
           ))
         ) : (
-          <p className="text-gray-400 col-span-full">No cards found.</p>
+          <p className="text-gray-400 col-span-full">None.</p>
         )}
       </div>
 
