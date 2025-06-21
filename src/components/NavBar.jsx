@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom'
 
 const NavBar = () => {
   return (
@@ -8,9 +9,9 @@ const NavBar = () => {
           Purple<span className="text-[#7756f5]">Whale</span>
         </h3>
         <ul className="flex ml-auto space-x-8 text-white">
-          <li className="text-sm md:text-xl hover:cursor-pointer hover:text-[#7556f5] transition-colors duration-300">
+          <Link to='/subscribe'><li className="text-sm md:text-xl hover:cursor-pointer hover:text-[#7556f5] transition-colors duration-300">
             Join Premium
-          </li>
+          </li></Link>
           <a
             href="https://x.com/Purpplewhaleapp"
             target="_blank"

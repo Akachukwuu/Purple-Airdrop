@@ -1,7 +1,15 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-const Card = ({ title, description, requirements, status, promoted, link }) => {
+const Card = ({
+  title,
+  description,
+  requirements,
+  status,
+  promoted,
+  link,
+  image,
+}) => {
   const slug = title.toLowerCase().replace(/[^a-z0-9]+/g, "-");
 
   return (
@@ -18,10 +26,17 @@ const Card = ({ title, description, requirements, status, promoted, link }) => {
             🌟 Promoted
           </div>
         )}
+        <div className="flex items-center gap-3 mb-2">
+          <img
+            className="w-8 h-8 rounded-3xl object-cover"
+            src={image}
+            alt={`${title} logo`}
+          />
+          <h2 className="text-lg font-bold">{title}</h2>
+        </div>
 
-        <h2 className="text-lg font-bold mb-1">{title}</h2>
         <p className="text-sm text-gray-300 mb-2">
-          {description.length > 6
+          {description.length > 50
             ? description.slice(0, 50) + "..."
             : description}
         </p>

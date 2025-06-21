@@ -8,8 +8,8 @@ const Container = ({ cardInfo }) => {
 
   const filteredCards =
     activeFilter === "All"
-      ? cardInfo
-      : cardInfo.filter((card) => card.status === activeFilter);
+      ? [...cardInfo].reverse()
+      : [...cardInfo].reverse().filter((card) => card.status === activeFilter);
 
   const visibleCards = filteredCards.slice(0, visibleCount);
 
@@ -53,6 +53,7 @@ const Container = ({ cardInfo }) => {
             <Card
               key={index}
               title={card.title}
+              image={card.image}
               description={card.description}
               requirements={card.requirements}
               status={card.status}

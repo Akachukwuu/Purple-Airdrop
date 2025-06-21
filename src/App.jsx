@@ -18,9 +18,9 @@ function App() {
           path="/airdrops/:slug"
           element={<CardDetail cardInfo={cardInfo} />}
         />
+        <Route path="/subscribe" element={<SubscriptionCard />} />
       </Routes>
       <div className="bg-[#0d0d16]">
-        <SubscriptionCard />
       </div>
       <footer className="bg-[#0d0d16] text-white text-center p-4">
         <p className="text-sm">

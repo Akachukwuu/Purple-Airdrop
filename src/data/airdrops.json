@@ -1,65 +1,40 @@
  [
     {
-      "title": "Pudgy Penguins",
-      "description": "This is an ongoing airdrop and it would soon be ending.",
-      "requirements": "Join the Discord server and follow on Twitter.",
-      "status": "Live"
-    },
-    {
       "title": "Blum",
-      "description": "Participate in the first airdrop event.",
-      "status": "Upcoming"
+      "description": "- Snapshots have been taken.",
+      "status": "Live",
+      "link": "https://blum.io",
+      "image": "/images/blum.jpg"
     },
     {
       "title": "Notcoin",
-      "description": "Airdrop ended last week.",
-      "status": "Ended"
-    },
-    {
-      "title": "Purple Whale",
-      "description": "Participate in the first airdrop event.",
-      "requirements": "Join the Discord server and follow on Twitter.",
-      "status": "Live"
+      "description": "Airdrop is ended.",
+      "status": "Ended",
+      "image": "images/Notcoin-Profile-Picture.jpg",
+      "link": "https://t.me/notcoin_bot" 
     },
     {
       "title": "Dogs",
-      "description": "Participate in the first airdrop event.",
-      "requirements": "Join the Discord server and follow on Twitter.",
-      "status": "Ended"
+      "description": "Airdrop is ended.",
+      "requirements": "Telegram Account",
+      "status": "Ended",
+      "image": "/images/dogs.jpg",
+      "link": "https://dogs.dev/."
     },
     {
-      "title": "ZetaChain",
-      "description": "Claim your ZETA from testnet participation.",
-      "requirements": "Bridge assets and interact with dApps.",
-      "status": "Live"
-    },
-    {
-      "title": "Blast",
-      "description": "Early contributor rewards coming soon.",
-      "status": "Upcoming"
-    },
-    {
-      "title": "LayerZero",
-      "description": "Bridge and participate in Zealy quests.",
-      "requirements": "Use Stargate and participate in quests.",
-      "status": "Live"
-    },
-    {
-      "title": "Scroll",
-      "description": "Testnet is ending, prepare for mainnet rewards.",
-      "status": "Ended"
-    },
-    {
-      "title": "Aptos",
-      "description": "Participate in the first airdrop event.",
-      "requirements": "Join the Discord server and follow on Twitter.",
-      "status": "Live"
-    },
-    {
-      "title": "Sui",
-      "description": "Participate in the first airdrop event. This is an ongoing airdrop and it would soon be ending. \n \n Join the Discord server and follow on Twitter.",
-      "requirements": "Join the Discord server and follow on Twitter.",
+      "title": "Klout",
+      "description": "- Find Out \n \n - Connect your X account \n \n - Connect your Solana wallet \n \n - Enter this invite code: Purpplewhaleapp \n \n - Follow their Instructions",
+      "requirements": "X account and Solana wallet",
       "status": "Live",
-      "link": "https://sui.io"
+      "link": "https://sui.io",
+      "image":"/images/klout.jpg"
+    },
+    {
+      "title": "Human Protocol",
+      "description": "- Sign up \n \n - Carry out the social tasks \n \n - Download the app on playstore or appstore and carry out human verifcation. \n \n - Earn $HP",
+      "requirements": "The web app and human protocal mobile app(For verification))",
+      "status": "Live",
+      "link": "https://testnet.humanity.org/dashboard?code=3b7a4aaaffb0394a0813dae6eec01d77f4558397336ef3b012e67b42cd2509ba&state=t3",
+      "image": "/images/humanity.jpg"
     }
   ]
