@@ -6,6 +6,7 @@ import { Route, Routes } from "react-router-dom";
 import CardDetail from "./components/CardDetail";
 import airdrops from "./data/airdrops.json"; // Assuming this is the correct path to your airdrops data
 import SubscriptionCard from "./components/SubscriptionCard";
+import NotFound from "./components/NotFound";
 
 function App() {
   const cardInfo = airdrops;
@@ -19,9 +20,9 @@ function App() {
           element={<CardDetail cardInfo={cardInfo} />}
         />
         <Route path="/subscribe" element={<SubscriptionCard />} />
+        <Route path="*" element={<NotFound />} />
       </Routes>
-      <div className="bg-[#0d0d16]">
-      </div>
+      <div className="bg-[#0d0d16]"></div>
       <footer className="bg-[#0d0d16] text-white text-center p-4">
         <p className="text-sm">
           © {new Date().getFullYear()} Purple Whale. All rights reserved.
