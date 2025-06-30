@@ -36,5 +36,36 @@
       "status": "Live",
       "link": "https://testnet.humanity.org/dashboard?code=3b7a4aaaffb0394a0813dae6eec01d77f4558397336ef3b012e67b42cd2509ba&state=t3",
       "image": "/images/humanity.jpg"
+    },
+    {
+      "title": "Billions Network",
+      "description": "- Sign up using your Gmail account \n \n - Verify your Ethereum wallet and Gmail account \n \n - Follow their page on X(formerly Twitter) \n \n - Share your referral link to earn powers (200 powers per referral) \n \n - Reach level 3)",
+      "requirements": "Gmail account and Ethereum wallet",
+      "status": "Live",
+      "link": "https://signup.billions.network/",
+      "image": "/images/billions.jpg"
+    },
+    {
+      "title": "Pudgy Penguins",
+      "description": "- Open link in your solana wallet browser \n \n - Connect your Solana wallet \n \n - Fund wallet with at least $1 worth sol for gas \n \n - Click on the 'Claim' button \n \n - Swap $PUDGY to sol",
+      "requirements": "Solana wallet with at least $1 worth of SOL for gas.",
+      "status": "Ended",
+      "link": "https://www.pudgypenguins.com/",
+      "image": "/images/pudgy.jpg"
+    },
+    {
+      "title": "Getgems",
+      "description": "- Download TON wallet(tonkeeper or Tonhub) save your seedphrase for wallet recovery if lost \n \n - Purchase TON from any CEX(Bybit, Binance, OKX, Bitget) then withdraw to your TON wallet \n \n - Go to Getgems.io and connect your TON wallet(It's totally safe) \n \n - Go to pearls drop and subscribe. Launch @pearls_drop_bot, connect ton wallet and subscribe to available drops to get free NFTs \n \n - Follow Pearls channel for updates \n \n - Claim your Pearl - In your Getgems profile, select unclaimed compressed NFTs, \n \n - claim cNFT(this makes it mintable, tradeable, giftable or redeemable.)",
+      "requirements": "CEX, TON wallet, and Telegram account and some TON",
+      "status": "Live",
+      "link": "https://getgems.io/",
+      "image": "/images/getgem.jpg"
+    },
+    {
+      "title": "Bybit Trademasters",
+      "description": " - sign in—or register to grab up to 5,050 USDT in welcome gifts \n \n - complete Identity Verification Lv 1 for full eligibility. \n \n - Deposit Funds → Maintain a minimum balance of $5,000 in your account to qualify for leaderboard participation \n \n Start Trading → Trade perpetual contracts to compete on the PnL or volume leaderboards and increase your prize potential Trade stocks, gold, and forex on Bybit using USDT—directly from your Bybit App. \n \n Track Your Ranking → Monitor real-time standings and aim for a top position to win a share of the $1.5M USDT prize pool and an invite to the Bybit VIP Gala 2025 \n \n Try TradFi Trading → Trade top stock CFDs like $AAPL, $TSLA, $META, and more—settled in $USDT—via the Bybit MT5 dashboard",
+      "status": "Live",
+      "link": "https://purple-airdrop.vercel.app/",
+      "image": "/images/bybit.jpg"
     }
   ]

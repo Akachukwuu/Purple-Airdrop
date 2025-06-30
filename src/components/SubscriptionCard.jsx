@@ -3,7 +3,7 @@ import { FaCrown, FaCheckCircle } from "react-icons/fa";
 
 const SubscriptionCard = () => {
   return (
-    <div className="bg-[#1a1a2e] text-white rounded-2xl shadow-xl p-6 w-full max-w-md mx-auto border border-purple-600">
+    <div className="bg-[#1a1a2e] my-24 text-white rounded-2xl shadow-xl p-6 w-full max-w-md mx-auto border border-purple-600">
       <div className="flex items-center space-x-3 mb-4">
         <FaCrown className="text-yellow-400 text-2xl" />
         <h2 className="text-2xl font-bold text-purple-300">Premium Plan</h2>
