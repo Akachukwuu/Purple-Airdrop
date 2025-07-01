@@ -3,9 +3,10 @@
       "title": "Blum",
       "description": "- Snapshots have been taken.",
       "status": "Live",
-      "link": "https://blum.io",
+      "link": "https://blum.io/",
       "image": "/images/blum.jpg"
     },
+
     {
       "title": "Notcoin",
       "description": "Airdrop is ended.",
@@ -13,6 +14,7 @@
       "image": "images/Notcoin-Profile-Picture.jpg",
       "link": "https://t.me/notcoin_bot" 
     },
+
     {
       "title": "Dogs",
       "description": "Airdrop is ended.",
@@ -21,6 +23,7 @@
       "image": "/images/dogs.jpg",
       "link": "https://dogs.dev/."
     },
+
     {
       "title": "Klout",
       "description": "- Find Out \n \n - Connect your X account \n \n - Connect your Solana wallet \n \n - Enter the invite code: Purpplewhaleapp \n \n - Follow their Instructions",
@@ -29,6 +32,7 @@
       "link": "https://klout.gg/",
       "image":"/images/klout.jpg"
     },
+
     {
       "title": "Human Protocol",
       "description": "- Sign up using Wallet or Email Address \n \n - Link all social media accounts \n \n - Carry out the social tasks \n \n - Claim daily $HP \n \n - Download the app on playstore or appstore and carry out human verifcation. \n \n - Earn $HP \n \n - Refer Others",
@@ -37,6 +41,7 @@
       "link": "https://testnet.humanity.org/dashboard?code=3b7a4aaaffb0394a0813dae6eec01d77f4558397336ef3b012e67b42cd2509ba&state=t3",
       "image": "/images/humanity.jpg"
     },
+
     {
       "title": "Billions Network",
       "description": "- Sign up using your Gmail account \n \n - Verify your Ethereum wallet and Gmail account \n \n - Follow their page on X(formerly Twitter) \n \n - Share your referral link to earn powers (200 powers per referral) \n \n - Reach level 3)",
@@ -45,6 +50,7 @@
       "link": "https://signup.billions.network/",
       "image": "/images/billions.jpg"
     },
+
     {
       "title": "Pudgy Penguins",
       "description": "- Open link in your solana wallet browser \n \n - Connect your Solana wallet \n \n - Fund wallet with at least $1 worth sol for gas \n \n - Click on the 'Claim' button \n \n - Swap $PUDGY to sol",
@@ -65,7 +71,23 @@
       "title": "Bybit Trademasters",
       "description": " - sign in—or register to grab up to 5,050 USDT in welcome gifts \n \n - complete Identity Verification Lv 1 for full eligibility. \n \n - Deposit Funds → Maintain a minimum balance of $5,000 in your account to qualify for leaderboard participation \n \n Start Trading → Trade perpetual contracts to compete on the PnL or volume leaderboards and increase your prize potential Trade stocks, gold, and forex on Bybit using USDT—directly from your Bybit App. \n \n Track Your Ranking → Monitor real-time standings and aim for a top position to win a share of the $1.5M USDT prize pool and an invite to the Bybit VIP Gala 2025 \n \n Try TradFi Trading → Trade top stock CFDs like $AAPL, $TSLA, $META, and more—settled in $USDT—via the Bybit MT5 dashboard",
       "status": "Live",
-      "link": "https://purple-airdrop.vercel.app/",
+      "link": "https://bybit.com",
       "image": "/images/bybit.jpg"
+    },
+    {
+      "title": "Terminal Finance",
+      "description": " - Go to terminal finance site(site below) and connect your wallet \n \n - Click on the [Pre-Deposit] option. \n \n - Deposit Assets → You can Deposit USDe, WETH & WBTC to start earning root points(slightly different depending on the asset you deposited) \n \n Referrals → You can share referral links and earn 10% on each referee's points",
+      "status": "Live",
+      "link": "https://terminal.fi/",
+      "image": "/images/terminal.jpg"
+    }, 
+
+    {
+      "title": "Luck.io",
+      "description": "- Connect wallet -> Visit luck.io(link below) and connect your wallet(Solflare or Phantom wallet) no KYC needed. \n \n - You need to activate Smart vault which is a one-time procedure and would cost a very little fee(in cents usually) which secures your funds onchain. \n \n - Deposit SOL, USDT, USDC to participate \n \n - Recieve a welcome bonus/package -> This depends on your past solana activity onchain \n \n - Claim daily rewards -> Boost and spin",
+      "requirements": "Solana wallet and gas fees / $SOL",
+      "status": "Live",
+      "link": "https://luck.io/",
+      "image": "/images/luck.png"
     }
   ]

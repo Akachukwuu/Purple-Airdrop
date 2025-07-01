@@ -30,7 +30,7 @@ const CardDetails = ({ cardInfo }) => {
 
   const imageUrl = isValidUrl(card.image) ? card.image : "/fallback.jpg";
 
-  const validLink = isValidUrl(card.link) ? card.link : "#";
+  const validLink = isValidUrl(card.link) ? card.link : card.link;
 
   return (
     <div className="min-h-screen bg-[#0d0d16] text-white p-6">
