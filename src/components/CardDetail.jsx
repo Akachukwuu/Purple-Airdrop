@@ -53,19 +53,21 @@ const CardDetails = ({ cardInfo }) => {
         </p>
       )}
 
-      <a
-        className="text-sm text-green-600 underline mb-2"
-        href={validLink}
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Start Airdrop
-      </a>
+      <div className="mt-8">
+        <a
+          className="text-xl font-medium text-white  bg-green-600 p-3 hover:bg-white hover:text-green-600 rounded-lg transition-all"
+          href={validLink}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Start Airdrop
+        </a>
+      </div>
 
       <br />
       <br />
 
-      <span className="inline-block text-xs px-2 py-1 bg-purple-600 rounded">
+      <span className="inline-block text-sm font-medium px-4 py-2 bg-purple-600 rounded">
         {card.status}
       </span>
     </div>
