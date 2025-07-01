@@ -4,6 +4,12 @@ import CardDetail from "./components/CardDetail";
 import SubscriptionCard from "./components/SubscriptionCard";
 import NotFound from "./components/NotFound";
 import airdrops from "./data/airdrops.json"; // Ensure the path is correct
+import {
+  FaFacebook,
+  FaInstagram,
+  FaTelegram,
+  FaXTwitter,
+} from "react-icons/fa6";
 
 function App() {
   const cardInfo = airdrops;
@@ -29,6 +35,24 @@ function App() {
           <p className="text-sm">
             © {new Date().getFullYear()} Purple Whale. All rights reserved.
           </p>
+          <div className="flex flex-col space-y-4 w-12 fixed left-0 top-100 text-white text-2xl transition-all">
+            <a
+              className=" hover:text-blue-600 hover:scale-110"
+              href="https://x.com/home"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FaXTwitter />
+            </a>
+            <a
+              className=" hover:text-blue-600 hover:scale-110"
+              href="https://t.me/purpplewhale"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FaTelegram />
+            </a>
+          </div>
         </footer>
       </div>
     </Router>

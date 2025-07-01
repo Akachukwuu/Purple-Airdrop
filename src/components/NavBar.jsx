@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from 'react-router-dom'
+import { Link } from "react-router-dom";
 
 const NavBar = () => {
   return (
@@ -9,16 +9,18 @@ const NavBar = () => {
           Purple<span className="text-[#7756f5]">Whale</span>
         </h3>
         <ul className="flex ml-auto space-x-8 text-white">
-          <Link to='/subscribe'><li className="text-sm md:text-xl hover:cursor-pointer hover:text-[#7556f5] transition-colors duration-300">
-            Join Premium
-          </li></Link>
+          <Link to="/subscribe">
+            <li className="text-sm md:text-xl hover:cursor-pointer hover:text-[#7556f5] transition-colors duration-300">
+              Join Premium
+            </li>
+          </Link>
           <a
-            href="https://x.com/Purpplewhaleapp"
+            href="https://forms.gle/WTxicv79zcSbx73D9"
             target="_blank"
             rel="noopener noreferrer"
           >
             <li className="text-sm md:text-xl hover:cursor-pointer hover:text-[#7556f5] transition-colors duration-300">
-              Contact
+              Submit Airdrop
             </li>
           </a>
         </ul>
