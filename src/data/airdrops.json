@@ -95,7 +95,7 @@
       "description": "- Visit Ethena.fi(link below) to access your dashboard and connect your wallet, lock $ENA to mint sENA for a 40x shard multiplier \n \n - Holding sENA also grants eligibility for external token distributions from Ethereal (15%), Derive (formerly Lyra Finance -> 5%), Echelon (5%), and Terminal Finance (10%), based on points.  \n \n - Earn Base Shards → Acquire USDe, stake it into sUSDe, or provide and lock liquidity in eligible pools to accumulate base shards \n \n - Boost via Integrations → Supply or lock assets through Pendle, Morpho, Gearbox, or Aave to unlock up to 60× shard multipliers. \n \n - Refer → Share your referral link to earn additional shards from referees. \n \n - EU Redemption Notice → EU/EEA residents must complete KYC and submit proof of USDe holdings at ethena.fi/redemption between June 25 and August 6, 2025. This does not affect USDe issued by Ethena (BVI) Limited.",
       "requirements": "",
       "status": "Live",
-      "link": "app.ethena.fi/join/tqzli",
+      "link": "https://app.ethena.fi/",
       "image": "/images/ethena.png"
     }
   ]
