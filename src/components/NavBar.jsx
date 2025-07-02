@@ -10,9 +10,7 @@ const NavBar = () => {
         </h3>
         <ul className="flex ml-auto space-x-4 text-white">
           <Link to="/subscribe">
-            <li className="text-sm md:text-xl hover:cursor-pointer hover:text-[#7556f5] transition-colors duration-300">
-              Join Premium
-            </li>
+            <li className="text-sm md:text-xl hover:cursor-pointer hover:text-[#7556f5] transition-colors duration-300"></li>
           </Link>
           <a
             href="https://forms.gle/WTxicv79zcSbx73D9"
