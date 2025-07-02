@@ -8,7 +8,7 @@ const NavBar = () => {
         <h3 className="text-white text-2xl font-bold">
           Purple<span className="text-[#7756f5]">Whale</span>
         </h3>
-        <ul className="flex ml-auto space-x-8 text-white">
+        <ul className="flex ml-auto space-x-4 text-white">
           <Link to="/subscribe">
             <li className="text-sm md:text-xl hover:cursor-pointer hover:text-[#7556f5] transition-colors duration-300">
               Join Premium
